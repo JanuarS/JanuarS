@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello World, I’m Januar Soepangat</h1>
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in payment processessing applications
 - 🌱 I’m currently learning about authentication and authorization 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software solutions for student organizations to better interact with their members
 - 📫 How to reach me januar.soepangat@gmail.com
 
 <!---
